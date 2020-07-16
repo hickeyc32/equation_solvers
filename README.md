@@ -1,2 +1,2 @@
 # equation_solvers
-Numerical method scripts using Sympy or MATLAB
+Numerical method scripts using Sympy and MATLAB
